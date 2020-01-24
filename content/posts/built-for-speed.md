@@ -43,4 +43,4 @@ I've taken a number of steps to try and make Awake as fast and snappy as possibl
 
 ![Page speed insights score 99!!](/uploads/page-speed-insights.jpg)
 
-## This is a small content update
+## This is a smaller content update
